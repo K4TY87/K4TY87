@@ -6,9 +6,9 @@
 - 🌱 I’m currently interested in MySQL, Excel and Power BI.
 - 👯 I’m looking to collaborate on Power BI visuals. :bar_chart:
 - 🤔 I’m looking for help with Power BI. Any tips or tricks will be welcomed :) :chart_with_upwards_trend:
-- 💬 Ask me about anything really. You can always ask ... depending on the question though, please remember that no answer is a valid answer ;)
+- 💬 Ask me about anything really. You can always ask ... depending on the question though, please remember that no answer is a valid answer :wink:
 - 📫 How to reach me: I don't have a social media presence by choice :warning: Reach out on here !!!
-- ⚡ Fun fact: I am bilingual, both written and spoken, in the :es: Spanish language.
+- ⚡ Fun fact: I am bilingual, both written and spoken, in the Spanish language.
 
 *Living :sun_with_face: Overseas :sun_with_face: has allowed my transferable skills to be adaptable to also allowing myself to be understood clear and concise with non native speakers, face to face, verbally and in writing.* :boom:
 
