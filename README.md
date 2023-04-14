@@ -20,8 +20,10 @@
 *Working as a Manager :bowtie: for 10 years has well sculpted my leadership skills, critical thinking and working under pressure. Working within an array of roles within a :school: Private sector School :school: for many years has prepared me to meet deadlines, perfect time-keeping and keep my ability to think on my :footprints: feet :footprints: impeccable.* 
 
 
-<p align="center"> 
-![image](https://user-images.githubusercontent.com/130657071/232028684-d3f57bdb-3864-4150-b966-fea716887b27.png) 
+<p align="center" style="margin-bottom: 0px !important;">
+<img width="200" src="https://user-images.githubusercontent.com/130657071/232028684-d3f57bdb-3864-4150-b966-fea716887b27.png" alt="Material Bread logo" align="center">
 </p>
+
+
   
 
